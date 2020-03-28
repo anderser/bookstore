@@ -72,7 +72,7 @@ setup(
         'ipython >= 5.0',
         'notebook',
         'tornado >= 5.1.1',
-        'aiobotocore',
+        'aiobotocore <0.11',
         'aioboto3',
     ],
     extras_require={
