@@ -4,5 +4,5 @@ ipython >= 5.0
 notebook
 tornado >= 5.1.1
 aioboto3
-aiobotocore
+aiobotocore <0.11
 requests
